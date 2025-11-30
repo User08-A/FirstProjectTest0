@@ -1,9 +1,8 @@
-.logo{
-    background: right
-    url("C:\Users\moner\Desktop\GIT\FirstProjectTest0\Super_Paper_Mario_Logo.png");
+.Headerlogo{
     display: flex;
     height: 140px;
     align-items: center;
     justify-content: center;
+    
 }
 
